@@ -16,3 +16,15 @@ The general idea of the project is to create a system capable of monitoring stud
 by identifying tables, students, phones and pinpoint their exact  coordinates and notify the administration about possible cheating attempts 
 (using a  phone during a test session or a student not sitting in his rightful place).
 Finally, create  test sessions
+
+here a couple of pictures of the interface built with streamlit
+![createsession](https://user-images.githubusercontent.com/114769519/195649749-c231c3ce-1f7d-48c8-b1fc-b5db8e7046ce.PNG)
+Create session
+![delete](https://user-images.githubusercontent.com/114769519/195649808-fcc42f67-0ca6-4ee9-a62d-df5bf924304e.PNG)
+Delete Session
+![Monotring](https://user-images.githubusercontent.com/114769519/195649869-c4c6b176-f242-4b9c-a132-1ca81feece0c.PNG)
+Monotring
+![notification](https://user-images.githubusercontent.com/114769519/195649885-ae079df9-2e3e-41d0-bc99-9b09cd0c3873.PNG)
+Notification
+![playback](https://user-images.githubusercontent.com/114769519/195649898-1bd42131-0f4a-4ed6-8f79-e08ca56baba9.PNG)
+playback
