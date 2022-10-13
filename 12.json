@@ -1,0 +1,85 @@
+{
+    "place": [
+        {
+            "table_row": "A",
+            "table_number": "1245",
+            "student_id": [
+                "1245",
+                "12548",
+                "12469"
+            ]
+        },
+        {
+            "table_row": "A",
+            "table_number": "12548",
+            "student_id": [
+                "1245",
+                "12548",
+                "12469"
+            ]
+        },
+        {
+            "table_row": "A",
+            "table_number": "12469",
+            "student_id": [
+                "1245",
+                "12548",
+                "12469"
+            ]
+        },
+        {
+            "table_row": "B",
+            "table_number": "754215",
+            "student_id": [
+                "754215",
+                "4697",
+                "46628"
+            ]
+        },
+        {
+            "table_row": "B",
+            "table_number": "4697",
+            "student_id": [
+                "754215",
+                "4697",
+                "46628"
+            ]
+        },
+        {
+            "table_row": "B",
+            "table_number": "46628",
+            "student_id": [
+                "754215",
+                "4697",
+                "46628"
+            ]
+        },
+        {
+            "table_row": "C",
+            "table_number": "89548",
+            "student_id": [
+                "89548",
+                "89542",
+                "4621"
+            ]
+        },
+        {
+            "table_row": "C",
+            "table_number": "89542",
+            "student_id": [
+                "89548",
+                "89542",
+                "4621"
+            ]
+        },
+        {
+            "table_row": "C",
+            "table_number": "4621",
+            "student_id": [
+                "89548",
+                "89542",
+                "4621"
+            ]
+        }
+    ]
+}
